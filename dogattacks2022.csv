@@ -1,0 +1,46 @@
+Month,State,Age,Sex,Fate
+Jan,Maharashtra,4,Female,Died
+Jan,Madhya Pradesh,3,Female,Died
+Jan,Uttar Pradesh,30,Female,Died
+Feb,Maharashtra,8,Male,Survived
+Feb,J&K,10,Male,Died
+Feb,Madhya Pradesh,4,Female,Survived
+Feb,J&K,3,Male,Survived
+March,Madhya Pradesh,1,Female,Critical
+March,Madhya Pradesh,8,Male,Survived
+March,Madhya Pradesh,10,Female,Survived
+March,J&K,5,Female,Survived
+March,Maharashtra,NA,NA,Critical
+March,Maharashtra,NA,NA,Survived
+March,Maharashtra,NA,NA,Survived
+March,Maharashtra,NA,NA,Survived
+March,Maharashtra,NA,NA,Survived
+March,Maharashtra,NA,NA,Survived
+March,Uttar Pradesh,7,Male,Died
+March,Haryana,1,Female,Survived
+March,Maharashtra,11,Female,Survived
+March,Uttar Pradesh,11,Female,Survived
+April,Punjab,9,Male,Survived
+April,Uttar Pradesh,5,Female,Died
+April,Uttar Pradesh,5,Male,Died
+April,Uttar Pradesh,8,Female,Critical
+April,Uttar Pradesh,2,Female,Died
+April,Rajasthan,11,Female,Died
+April,Madhya Pradesh,3,Female,Survived
+April,Uttarakhand,70,Female,Died
+April,Madhya Pradesh,4,Female,Survived
+April,Uttar Pradesh,12,Female,Died
+April,Telangana,2,Male,Died
+April,Karnataka,11,Male,Died
+April,Uttar Pradesh,9,Male,Survived
+May,J&K,4,Female,Survived
+May,Maharashtra,6,Female,Survived
+May,Telangana,12,Male,Died
+May,J&K,6,Male,Survived
+May,J&K,3,Female,Survived
+May,Rajasthan,9,Male,Critical
+May,Uttar Pradesh,9,Male,Died
+May,Uttar Pradesh,12,Male,Critical
+May,Karnataka,3,Male,Survived
+May,Karnataka,5,Male,Survived
+June,Bihar,55,Female,Died
