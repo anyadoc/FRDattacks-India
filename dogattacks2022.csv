@@ -61,3 +61,6 @@ Sep,Kerala,12,Male,Survived
 Sep,Kerala,11,Male,Survived
 Sep ,Kerala,40,Male,Survived
 Sep,Kerala,25,Male,Died
+Sep,Kerala,25?,Male,Critical
+Sep,Kerala,25?,Female,Survived
+Sep,Kerala,25?,Male,Survived
