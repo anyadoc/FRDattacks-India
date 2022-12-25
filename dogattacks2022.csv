@@ -75,3 +75,8 @@ Nov,Kerala,4,Male,Critical
 Nov,Uttar Pradesh,1.5,Female,Critical
 Nov,Himachal Pradesh,3,Female,Died
 Nov,Karnataka,3,Male,Died
+Dec,Uttar Pradesh,40,Female,Survived
+Dec,Punjab,13,Male,Survived
+Dec,Telangana,5,Female,Survived
+Dec,Bihar,53,Female,Died
+Dec,Maharashtra,6,Female,Died
