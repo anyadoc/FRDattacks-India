@@ -50,7 +50,7 @@ pincode,lat,long,label,link,rig
 600211,11.825686,13.17809,"Rata Pharmacy, Opp. Maiduguri University Teaching Hospital, Maiduguri, Borno State; RV available",https://maps.app.goo.gl/SK4ArxNzqB5x9MxE8,0
 600104,11.819984,13.17822,"Elim Pharmacy, 1 Lagos Street, Gwange, Maiduguri, Borno State; RV available",https://maps.app.goo.gl/jPzwEpGHoJgKiMcR9,0
 970101,7.72737,8.56857,"Benue State University Teaching Hospital, 3 Makurdi Gboko Rd, Walmayo, Makurdi, Benue; RV and RIG available",https://maps.app.goo.gl/g8QUg4x1uzu2ig3u5,1
-453106,5.12536,7.39288,"Uwal Pharmacy Plus,  43b, New Umuahia Road, by Obikabia junction, Ogbor Hill, Aba, Abia State; Call: 08033615919; RV availableÂ ",https://maps.app.goo.gl/Zw9i7sZc63VHm98Z7,0
+453106,5.12536,7.39288,"Uwal Pharmacy Plus,  43b, New Umuahia Road, by Obikabia junction, Ogbor Hill, Aba, Abia State; Call: 08033615919; RV available ",https://maps.app.goo.gl/Zw9i7sZc63VHm98Z7,0
 440236,5.54729,7.49715,"Emerson Blessed Pharmacy, 33 Lagos st., Umuahia, Abia State; Call: 08037127955; RV available",https://maps.app.goo.gl/tf2pcibQqAhzuSqU6,0
 453111,5.13021,7.33611,"WORLD BANK HOUSING ESTATE, 104 Upstair line, Abayi, Aba 453111, Abia, Nigeria; Call: 08140256343; RV available",https://maps.app.goo.gl/vKNGBUuJ7dXWXVTt7,0
 432108,6.22192,6.80459,"Adino Pharmacy Limited, 18 College Road, Opp. 2nd gate, Nwafor Orizor College of Education, Nsugbe, Anambra State; Call: 08036193742; RV available",https://maps.app.goo.gl/xqbxAe5hskofNeyf8,0
@@ -58,3 +58,13 @@ pincode,lat,long,label,link,rig
 101233,6.60902,3.34238,"Alpha Pharmacy & Stores, 33 Adeniyi Jones, Oba Akran, Ikeja 101233, Lagos; Call: 01-2704374   Tel.: 0906 000 6241, 0906 244 0935; RV available",https://maps.app.goo.gl/feNVimtHKgQnboaS6,0
 434106,6.15675,6.79481,"Alpha Pharmacy & Stores, Onitsha Mall, former ABS Junction, 4 Park Road, Onitsha Mall, GRA, Onitsha; Call: 0906 244 0943, 0906 601 9566, 0803 088 6878; RV available",https://maps.app.goo.gl/yuRCPf4NmLRteRKd6,0
 434106,6.15323,6.78167,"Alpha Pharmacy & Stores, Post Office, 56 Old Market Rd, GRA, Onitsha, Anambra; Call: 0906 244 0948; RV available",https://maps.app.goo.gl/GG8CrPMEjpitaGnP8,0
+500101,4.80043,7.01087,"Alpha Pharmacy & Stores, 59 Ogbunabali Road, Old Port Harcourt Twp, Port Harcourt, Rivers; Call: Call centre: 01-2704374 Tel.: 0908 476 8604; RV available",https://maps.app.goo.gl/2jo3aouNQV5qBmjs5,0
+500272,4.87352,6.96091,"Alpha Pharmacy & Stores, Plot 5 Rumuchindah Cl, Mgbuoba, Port Harcourt, Rivers; Call: 0908 476 8601; RV available",https://maps.app.goo.gl/b5xojJjUo7WK3PXH7,0
+500271,4.82702,6.99381,"Alpha Pharmacy & Stores, 4F/A Sani Abacha Road, GRA phase 3 Port Harcourt Old, Township, Port Harcourt, Rivers; Call: 0906 942 2440; RV available",https://maps.app.goo.gl/o1soCuUM1CRCkHeM9,0
+400102,6.44028,7.52839,"Alpha Pharmacy, 32 Edinburgh Road, Independence Layout, Enugu; Call: 0809 834 6916, 0906 244 0942; RV available",https://maps.app.goo.gl/iWmKC8GzJALCPzNg7,0
+400107,6.42156,7.49131,"Alpha Pharmacy & Stores, 105 Agbani Rd, Achara, Enugu; Call: 0906 244 0949; RV available",https://maps.app.goo.gl/PvuQxfos5AFjYzyKA,0
+102214,6.55301,3.33151,"Alpha Pharmacy & Stores, 8 Asa-Afariogun St, Isolo, Lagos; Call:  0906 000 9815, 0906 244 0938; RV available",https://maps.app.goo.gl/x1Uwsqm3XfN9xVdG9,0
+105102,6.58747,3.39348,"Alpha Pharmacy & Store, Supersaver Stores, 8 Ajiboye St, Alapere, Lagos; Call: 0816 056 9402   Email: alphaalapere@alphapharmacyltd.com; RV available",https://maps.app.goo.gl/gXWFMedRdTP2oeLP8,0
+101233,6.59659,3.35219,"Alpha Pharmacy, 2B Alabi St, off Toyin St, Ikeja; Call: +2348134041020, Email: alphapharmacy.com.ng; RV available",https://maps.app.goo.gl/aD8RoKAZpgB4iKP77,0
+500272,4.87125,6.95965,"Alpha Pharmacy & Stores, Plot 5 Rumuchindah Cl, Mgbuoba, Port Harcourt, Rivers; Call: 09084768601; RV available",https://maps.app.goo.gl/9C7WRKMgEFZofdxE8,0
+500271,4.81987,6.99489,"Alpha Pharmacy &Stores, 4F/A Sani Abacha Road, GRA phase 3 Port Harcourt Old, Township, Port Harcourt, Rivers; Call: 08069049125; RV available",https://maps.app.goo.gl/ZfBRvRF5C2g8LkYB7,0
